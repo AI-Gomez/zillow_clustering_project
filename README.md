@@ -26,6 +26,17 @@ Using Polynomial Regression to the 2nd Degree we were able to beat the Log Error
 | structure_dollar_per_sqft | The structure tax value dollar count divided by finished square feet. |
 | land_dollar_per_sqft | The land value tax dollar count divided by the lot size square feet. |
 
+# Summary
+
+### Main drivers of log error are home age, geographical location, and amount of bedrooms and bathrooms
+
+### The 4 features that proved useful in modeling are:
+- bed_bath_ratio 
+- age
+- centroid_bedroomcnt
+- yearbuilt
+
+### More time would be necessary for feature engineering and more exploratory anaylsis to better define drivers of log error and how to mitigate it.
 
 
 
