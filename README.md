@@ -32,8 +32,11 @@ Using Polynomial Regression to the 2nd Degree we were able to beat the Log Error
 
 ### The 4 features that proved useful in modeling are:
 **- bed_bath_ratio**
+
 **- age**
+
 **- centroid_bedroomcnt**
+
 **- yearbuilt**
 
 ### More time would be necessary for feature engineering and more exploratory anaylsis to better define drivers of log error and how to mitigate it.
