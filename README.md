@@ -12,6 +12,9 @@ Beat the log error baseline using data clustering if possible.
 ### Results:
 Using Polynomial Regression to the 2nd Degree we were able to beat the Log Error Baseline by 91.8%. Of the 4 features used, one of those were a data clustering feature.
 
+### Data Replication
+Files needed for Data Replication can be found [here](https://github.com/AI-Gomez/zillow_clustering_project). A Env.py containing access rights to the Codeup SQL Database will be needed.
+
 ## Data Library
 | Feature |	Description |
 |---------|-------------|
